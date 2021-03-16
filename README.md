@@ -2,17 +2,11 @@
 
 ### Enviroment
 
-"@nativescript/core": "7.3.0"
+"tns-core-modules": "6.5.25"
 
-"nativescript-vue": "^2.8.1"
+"nativescript-vue": "2.4.0"
 
-"@nativescript/ios": "7.2.0"
-
-✔ Component nativescript has 7.2.1 version and is up to date.
-
-✔ Component @nativescript/core has 7.3.0 version and is up to date.
-
-✔ Component @nativescript/ios has 7.2.0 version and is up to date.
+"tns-io": "6.5.4"
 
 
 ### Describe the bug
