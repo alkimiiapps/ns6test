@@ -1,4 +1,4 @@
-# IOS NS memory leak on Page navigation NS6
+# IOS NS memory leak on Page navigation on NS6
 
 ### Enviroment
 
